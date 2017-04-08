@@ -1,0 +1,14 @@
+{
+  "name": "customerloyalty",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "angular-video-background": "^1.0.1",
+    "ejs": "*",
+    "express": "3.2.6",
+    "mysql": "^2.12.0"
+  }
+}
